@@ -13,6 +13,13 @@ I recommend the following key combinations for controlling Yabai. These need to 
 | Combination | Script |
 | - | - |
 | ⌃ ⌥ B| ``Balance Space`` |
+| ⌃ ⌥ E| ``Equalize Space`` |
 | ⌃ ⌥ R| ``Rotate Space Clockwise`` |
 | ⌃ ⌥ ⇧ R| ``Rotate Space Counterclockwise`` |
-| ⌃ ⌥ +| ``Toggle Floating Window`` |
+| ⌃ ⌥ #| ``Toggle Floating Window`` |
+| ⌃ ⌥ ←| ``Focus Previous Space`` |
+| ⌃ ⌥ →| ``Focus Next Space`` |
+| ⌃ ⌥ +| ``Move Window To New Space`` |
+| ⌃ ⌥ ⇧ ←| ``Move Window To Previous Space`` |
+| ⌃ ⌥ ⇧ →| ``Move Window To Next Space`` |
+| ⌃ ⌥ -| ``Destroy Space`` |
